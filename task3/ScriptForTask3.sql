@@ -8,6 +8,8 @@ USE social_nw;
 -- communitites_users
 -- friendship
 -- messages
+-- posts
+-- likes 
 
 -- user table, contains authorisation infromation (except passwords). Versioned
 CREATE TABLE users (
