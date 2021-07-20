@@ -1,0 +1,2 @@
+mysql_config_editor print --all
+mysql_config_editor set -G client -h localhost -u root -p 
